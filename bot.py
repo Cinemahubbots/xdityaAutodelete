@@ -49,7 +49,7 @@ if time_to_del is None:
 @client.on(events.NewMessage(incoming=True, func=lambda e: e.is_private))
 async def on_pm_message(event):
     await event.reply(
-        "Hi. I'm an auto deleter userbot. I can delete messages in chats after a specific time interval.\nYou cannot use me here, please @BuyYourBots!"
+        "Hi. I'm an auto deleter userbot. I can delete messages in chats after a specific time interval.\nYou cannot use me here, contact @mayflower10
     )
 
 
