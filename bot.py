@@ -1,5 +1,5 @@
-# BoilerPlate Generated using https://github.com/xditya/TelethonSnippets Extension.
-# (c) @xditya
+# NJN KASHTAPETT ONDAKKIYE REPO EEDIT CHEYAN THANIKK ULUPP ONDO.
+# (c) @mayflower10
 # Redistribution is not allowed.
 
 import asyncio
