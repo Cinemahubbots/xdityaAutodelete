@@ -1,5 +1,5 @@
 # NJN KASHTAPETT ONDAKKIYE REPO EEDIT CHEYAN THANIKK ULUPP ONDO.
-# (c) @mayflower10
+# (c) @adishsuresh
 # Redistribution is not allowed.
 
 import asyncio
